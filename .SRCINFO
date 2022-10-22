@@ -1,0 +1,21 @@
+pkgbase = linear-nativefier
+	pkgdesc = Linear.app made with nodejs-nativefier (electron)
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://linear.app
+	arch = armv7l
+	arch = i686
+	arch = x86_64
+	license = custom
+	makedepends = imagemagick
+	makedepends = nodejs-nativefier
+	depends = gtk3
+	depends = libxss
+	depends = nss
+	optdepends = libindicator-gtk3
+	source = linear-nativefier.png
+	source = linear-nativefier.desktop
+	sha256sums = 83259e592be46546143e2286e77e5141917597fb3f0722e7be87212fa1260496
+	sha256sums = b65dd9f7afe69e497c78a21ab74c583eb5edf90490201ec2b9060c2e12516ab7
+	
+pkgname = whatsapp-nativefier

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Linear
+Comment=Linear.app client built on nodejs nativefier (electron)
+Exec=linear-nativefier
+Icon=linear-nativefier
+Encoding=UTF-8
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Network;Internet;Office;Utility;Development;
